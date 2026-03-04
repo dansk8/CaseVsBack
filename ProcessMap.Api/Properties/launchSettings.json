@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ProcessMap.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57242;http://localhost:57243"
+    }
+  }
+}
